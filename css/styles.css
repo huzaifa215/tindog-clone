@@ -1,0 +1,17 @@
+.container-fluid{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.heading{
+    font-size: 3rem;
+    font-family: 'Montserrat-Medium', sans-serif;
+    line-height: 1.5;
+}
+#title{
+    background-color: #ff4c68;
+}
+.navbar-nav {
+    margin-left: auto;   
+}
